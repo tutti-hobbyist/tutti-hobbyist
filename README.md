@@ -18,4 +18,4 @@ https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-gith
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutti-hobbyist&langs_count=5&hide=html,css,scss" />
 </a>
 
-[![Tutti's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tutti-hobbyist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tutti's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tutti_hobbyist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
